@@ -2,3 +2,9 @@ nama hosting : Hostinger
 nama DNS : sipatuang.site (Hostinger)
 nama email :gantolesipatuang@gmail.com
 password : kunfayakun
+
+email 1 : syahronibagus@yahoo.co.id
+password :kunfayakun
+
+email2 : gantolesipatuang@gmail.com
+password : kunfayakun
